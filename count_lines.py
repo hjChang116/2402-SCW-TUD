@@ -2,6 +2,7 @@
 Aim: this script counts the number of lines in standard input
 Input: strings from the command line
 Output: change something
+Author: Jess Chang
 """
 import sys
 
